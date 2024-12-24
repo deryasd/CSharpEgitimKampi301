@@ -42,7 +42,7 @@ namespace CSharpEgitimKampi301.EFProject
             var maxPrice = db.TblLocation.Max(y => y.Price);
             lblMaxPriceLocation.Text = db.TblLocation.Where(x => x.Price == maxPrice).Select(y => y.City).FirstOrDefault().ToString();
 
-            var guideIdAysegulCinar = db.TblGuide.Where(x => x.GuideName == "Ayşegül" &&  x.GuideSurname == "Çinar").Select(x => x.GuideId).FirstOrDefault();
+            var guideIdAysegulCinar = db.TblGuide.Where(x => x.GuideName == "Ayşegül" &&  x.GuideSurname == "Çınar").Select(x => x.GuideId).FirstOrDefault();
             lblAysegulCinarLocationNum.Text = db.TblLocation.Where(x => x.GuideId == guideIdAysegulCinar).Count().ToString();
         }
     }
