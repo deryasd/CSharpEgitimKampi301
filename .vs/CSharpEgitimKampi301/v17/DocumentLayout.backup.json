@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\users\\esind\\desktop\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,6 +30,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3CE6608-ED1B-4388-BA8B-714B43243F20}|CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj|c:\\users\\esind\\desktop\\csharpegitimkampi301\\csharpegitimkampi301.entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3CE6608-ED1B-4388-BA8B-714B43243F20}|CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj|solutionrelative:csharpegitimkampi301.entitylayer\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|c:\\users\\esind\\desktop\\csharpegitimkampi301\\csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C381CE1-3036-4AF1-8235-7C2B3FFAF635}|CSharpEgitimKampi301.PresentationLayer\\CSharpEgitimKampi301.PresentationLayer.csproj|solutionrelative:csharpegitimkampi301.presentationlayer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2
     }
   ],
   "DocumentGroupContainers": [
@@ -50,6 +59,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\Concrete\\Product.cs",
@@ -72,11 +82,23 @@
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T11:29:08.529Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAxwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:12:57.446Z",
+>>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "FrmProduct.cs [Design]",
               "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
               "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmProduct.cs",
@@ -137,6 +159,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T11:25:13.896Z",
               "EditorCaption": ""
+=======
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\esind\\Desktop\\CSharpEgitimKampi301\\CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "CSharpEgitimKampi301.PresentationLayer\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:29:55.809Z",
+              "EditorCaption": " [Design]"
+>>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2
             }
           ]
         }

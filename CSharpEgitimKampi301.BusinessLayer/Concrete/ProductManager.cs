@@ -29,11 +29,14 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
         public Product TGetById(int id)
         {
             return _productDal.GetById(id);
+<<<<<<< HEAD
         }
 
         public List<object> TGetProductWithCategory()
         {
             return _productDal.GetProductWithCategory();
+=======
+>>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2
         }
 
         public void TInsert(Product entity)
