@@ -45,7 +45,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.cmbCategory = new System.Windows.Forms.ComboBox();
-            this.txtExplanation = new System.Windows.Forms.TextBox();
+            this.txtDescription = new System.Windows.Forms.TextBox();
             this.btnList2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -59,6 +59,7 @@
             this.btnGetById.TabIndex = 28;
             this.btnGetById.Text = "ID\'ye Göre Getir";
             this.btnGetById.UseVisualStyleBackColor = true;
+            this.btnGetById.Click += new System.EventHandler(this.btnGetById_Click);
             // 
             // btnUpdate
             // 
@@ -69,6 +70,7 @@
             this.btnUpdate.TabIndex = 27;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
@@ -90,6 +92,7 @@
             this.btnAdd.TabIndex = 25;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtProductName
             // 
@@ -203,13 +206,13 @@
             this.cmbCategory.Size = new System.Drawing.Size(182, 28);
             this.cmbCategory.TabIndex = 35;
             // 
-            // txtExplanation
+            // txtDescription
             // 
-            this.txtExplanation.Location = new System.Drawing.Point(130, 211);
-            this.txtExplanation.Multiline = true;
-            this.txtExplanation.Name = "txtExplanation";
-            this.txtExplanation.Size = new System.Drawing.Size(180, 139);
-            this.txtExplanation.TabIndex = 36;
+            this.txtDescription.Location = new System.Drawing.Point(130, 211);
+            this.txtDescription.Multiline = true;
+            this.txtDescription.Name = "txtDescription";
+            this.txtDescription.Size = new System.Drawing.Size(180, 139);
+            this.txtDescription.TabIndex = 36;
             // 
             // btnList2
             // 
@@ -229,7 +232,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1471, 593);
             this.Controls.Add(this.btnList2);
-            this.Controls.Add(this.txtExplanation);
+            this.Controls.Add(this.txtDescription);
             this.Controls.Add(this.cmbCategory);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -249,6 +252,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FrmProduct";
             this.Text = "FrmProduct";
+            this.Load += new System.EventHandler(this.FrmProduct_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -274,7 +278,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ComboBox cmbCategory;
-        private System.Windows.Forms.TextBox txtExplanation;
+        private System.Windows.Forms.TextBox txtDescription;
         private System.Windows.Forms.Button btnList2;
     }
 }
