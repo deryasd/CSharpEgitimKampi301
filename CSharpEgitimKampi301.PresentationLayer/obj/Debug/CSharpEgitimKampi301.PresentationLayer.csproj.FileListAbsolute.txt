@@ -21,7 +21,4 @@ C:\Users\esind\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLay
 C:\Users\esind\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
 C:\Users\esind\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\Users\esind\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.DataAccessLayer.dll.config
-<<<<<<< HEAD
 C:\Users\esind\Desktop\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmProduct.resources
-=======
->>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2

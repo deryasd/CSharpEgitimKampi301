@@ -11,11 +11,7 @@ namespace CSharpEgitimKampi301.BusinessLayer.Concrete
 {
     public class OrderManager : IOrderService
     {
-<<<<<<< HEAD
         private readonly IOrderDal _orderDal;
-=======
-        private IOrderDal _orderDal;
->>>>>>> 7a7c7fd2ebfd81c9cae161138d8a74c0359cc5e2
         public OrderManager(IOrderDal orderDal)
         {
             _orderDal = orderDal;
